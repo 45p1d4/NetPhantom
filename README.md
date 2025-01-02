@@ -9,6 +9,8 @@
 - **Protocolos Soportados**:
   - Modbus
   - MQTT
+
+- **Proximamente**:
   - OPC-UA
   - RTMP
   - BACnet
