@@ -24,7 +24,7 @@
 ## Instalación
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/netphantom.git
+   git clone https://github.com/45p1d4/netphantom.git
    cd netphantom
    ```
 
