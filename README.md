@@ -31,7 +31,7 @@
   ```bash
   pip install scapy
 
-3. **Estructura del proyecto**:
+3. Estructura del proyecto
 NetPhantomr/
 ├── __init__.py
 ├── base_protocol.py
@@ -44,3 +44,5 @@ NetPhantomr/
 │   └── ...
 ├── logs/
 │   └── traffic_log.json
+
+4. **
